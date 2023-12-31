@@ -7,9 +7,9 @@ const lastName = parts[1];
 const id = parts[2];
 
 return{
-	firstName: firstName;
-	lastName:lastName;
-id:id;
+	firstName: firstName,
+	lastName:lastName,
+id:id
 }
 };
 
